@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/teams/153981/events?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://www.robotevents.com/api/v2/teams/153981/events?page=1",
+    "next_page_url": null,
+    "path": "https://www.robotevents.com/api/v2/teams/153981/events",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 5,
+    "total": 5
+  },
+  "data": [
+    {
+      "id": 52379,
+      "sku": "RE-VEXU-23-2379",
+      "name": "Queen's Robotics Cup",
+      "start": "2024-01-20T00:00:00-05:00",
+      "end": "2024-01-20T00:00:00-05:00",
+      "season": {
+        "id": 182,
+        "name": "VEXU 2023-2024: Over Under",
+        "code": null
+      },
+      "program": {
+        "id": 4,
+        "name": "VEX U Robotics Competition",
+        "code": "VURC"
+      },
+      "location": {
+        "venue": "Grant Hall",
+        "address_1": "43 University Avenue",
+        "address_2": null,
+        "city": "Kingston",
+        "region": "Ontario",
+        "postcode": "K7L 3N5",
+        "country": "Canada",
+        "coordinates": {
+          "lat": 44.22592,
+          "lon": -76.495112
+        }
+      },
+      "locations": {
+        "2024-01-20": {
+          "venue": "Grant Hall",
+          "address_1": "43 University Avenue",
+          "address_2": null,
+          "city": "Kingston",
+          "region": "Ontario",
+          "postcode": "K7L 3N5",
+          "country": "Canada",
+          "coordinates": {
+            "lat": 44.22592,
+            "lon": -76.495112
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "National",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 53692,
+      "sku": "RE-VEXU-23-3692",
+      "name": "2024 VEX Robotics World Championship - VEX U Event",
+      "start": "2024-04-28T00:00:00-04:00",
+      "end": "2024-04-30T00:00:00-04:00",
+      "season": {
+        "id": 182,
+        "name": "VEXU 2023-2024: Over Under",
+        "code": null
+      },
+      "program": {
+        "id": 4,
+        "name": "VEX U Robotics Competition",
+        "code": "VURC"
+      },
+      "location": {
+        "venue": "Kay Bailey Hutchison Convention Center Dallas",
+        "address_1": "650 South Griffin Street",
+        "address_2": null,
+        "city": "Dallas",
+        "region": "Texas",
+        "postcode": "75202",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.774509,
+          "lon": -96.800605
+        }
+      },
+      "locations": {
+        "2024-04-28": {
+          "venue": "Kay Bailey Hutchison Convention Center Dallas",
+          "address_1": "650 South Griffin Street",
+          "address_2": null,
+          "city": "Dallas",
+          "region": "Texas",
+          "postcode": "75202",
+          "country": "United States",
+          "coordinates": {
+            "lat": 32.774509,
+            "lon": -96.800605
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Innovate",
+          "order": 1
+        },
+        {
+          "id": 2,
+          "name": "Spirit",
+          "order": 2
+        },
+        {
+          "id": 3,
+          "name": "VEX U",
+          "order": 3
+        }
+      ],
+      "level": "World",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 55506,
+      "sku": "RE-VURC-24-5506",
+      "name": "Mecha Mayhem 2025 Signature Event Presented by Alberta Innovates: College/University Division",
+      "start": "2025-02-08T00:00:00-05:00",
+      "end": "2025-02-09T00:00:00-05:00",
+      "season": {
+        "id": 191,
+        "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 4,
+        "name": "VEX U Robotics Competition",
+        "code": "VURC"
+      },
+      "location": {
+        "venue": "BMO Centre",
+        "address_1": "1912 Flores LaDue Parade S.E.",
+        "address_2": null,
+        "city": "Calgary",
+        "region": "Alberta",
+        "postcode": "T2G 2W1",
+        "country": "Canada",
+        "coordinates": {
+          "lat": 51.037821,
+          "lon": -114.056334
+        }
+      },
+      "locations": {
+        "2025-02-08": {
+          "venue": "BMO Centre",
+          "address_1": "1912 Flores LaDue Parade S.E.",
+          "address_2": null,
+          "city": "Calgary",
+          "region": "Alberta",
+          "postcode": "T2G 2W1",
+          "country": "Canada",
+          "coordinates": {
+            "lat": 51.037821,
+            "lon": -114.056334
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Badlands",
+          "order": 1
+        }
+      ],
+      "level": "Signature",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 58590,
+      "sku": "RE-VURC-24-8590",
+      "name": "Purdue SIGBots Slam and Jam VEXU Qualifier",
+      "start": "2025-03-08T00:00:00-05:00",
+      "end": "2025-03-08T00:00:00-05:00",
+      "season": {
+        "id": 191,
+        "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 4,
+        "name": "VEX U Robotics Competition",
+        "code": "VURC"
+      },
+      "location": {
+        "venue": "812 3rd Street",
+        "address_1": "812 3rd Street",
+        "address_2": null,
+        "city": "West Lafayette",
+        "region": "Indiana",
+        "postcode": "47907",
+        "country": "United States",
+        "coordinates": {
+          "lat": 40.428079,
+          "lon": -86.916303
+        }
+      },
+      "locations": {
+        "2025-03-08": {
+          "venue": "812 3rd Street",
+          "address_1": "812 3rd Street",
+          "address_2": null,
+          "city": "West Lafayette",
+          "region": "Indiana",
+          "postcode": "47907",
+          "country": "United States",
+          "coordinates": {
+            "lat": 40.428079,
+            "lon": -86.916303
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "The Slammer",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 58911,
+      "sku": "RE-VURC-24-8911",
+      "name": "2025 VEX Robotics World Championship: VEX U Robotics Competition Event",
+      "start": "2025-05-09T00:00:00-04:00",
+      "end": "2025-05-11T00:00:00-04:00",
+      "season": {
+        "id": 191,
+        "name": "VEX U Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 4,
+        "name": "VEX U Robotics Competition",
+        "code": "VURC"
+      },
+      "location": {
+        "venue": "Kay Bailey Hutchison Convention Center Dallas",
+        "address_1": "650 South Griffin Street",
+        "address_2": null,
+        "city": "Dallas",
+        "region": "Texas",
+        "postcode": "75202",
+        "country": "United States",
+        "coordinates": {
+          "lat": 32.774509,
+          "lon": -96.800605
+        }
+      },
+      "locations": {
+        "2025-05-09": {
+          "venue": "Kay Bailey Hutchison Convention Center Dallas",
+          "address_1": "650 South Griffin Street",
+          "address_2": null,
+          "city": "Dallas",
+          "region": "Texas",
+          "postcode": "75202",
+          "country": "United States",
+          "coordinates": {
+            "lat": 32.774509,
+            "lon": -96.800605
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "World",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    }
+  ]
+}

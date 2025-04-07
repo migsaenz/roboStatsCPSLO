@@ -1,0 +1,1417 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/events?page=1",
+    "from": 1,
+    "last_page": 69,
+    "last_page_url": "https://www.robotevents.com/api/v2/events?page=69",
+    "next_page_url": "https://www.robotevents.com/api/v2/events?page=2",
+    "path": "https://www.robotevents.com/api/v2/events",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 25,
+    "total": 1708
+  },
+  "data": [
+    {
+      "id": 59716,
+      "sku": "RE-V5RC-25-9716",
+      "name": "VEX V5 Robotics Competition Egypt Regional Competition 2025",
+      "start": "2020-02-01T00:00:00-05:00",
+      "end": "2020-02-01T00:00:00-05:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Nile mall sadat city",
+        "address_1": "https://maps.app.goo.gl/yaSLfhJLoWp9dy9B8?g_st=com.google.maps.preview.copy",
+        "address_2": null,
+        "city": "Sadat city, Egypt",
+        "region": null,
+        "postcode": "21526",
+        "country": "Egypt",
+        "coordinates": {
+          "lat": 30.359352,
+          "lon": 30.532721
+        }
+      },
+      "locations": {
+        "2020-02-01": {
+          "venue": "Nile mall sadat city",
+          "address_1": "https://maps.app.goo.gl/yaSLfhJLoWp9dy9B8?g_st=com.google.maps.preview.copy",
+          "address_2": null,
+          "city": "Sadat city, Egypt",
+          "region": null,
+          "postcode": "21526",
+          "country": "Egypt",
+          "coordinates": {
+            "lat": 30.359352,
+            "lon": 30.532721
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 57111,
+      "sku": "RE-V5RC-24-7111",
+      "name": "11th Annual V5RC Grizzly Challenge Due to Weather!!!: SVVSD Trail Ridge Middle School 24-25 High Stakes - Middle School",
+      "start": "2023-11-16T00:00:00-05:00",
+      "end": "2023-11-16T00:00:00-05:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Trail Ridge Middle School",
+        "address_1": "1000 Button Rock Drive",
+        "address_2": null,
+        "city": "Longmont",
+        "region": "Colorado",
+        "postcode": "80504",
+        "country": "United States",
+        "coordinates": {
+          "lat": 40.177268,
+          "lon": -105.05828
+        }
+      },
+      "locations": {
+        "2023-11-16": {
+          "venue": "Trail Ridge Middle School",
+          "address_1": "1000 Button Rock Drive",
+          "address_2": null,
+          "city": "Longmont",
+          "region": "Colorado",
+          "postcode": "80504",
+          "country": "United States",
+          "coordinates": {
+            "lat": 40.177268,
+            "lon": -105.05828
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56048,
+      "sku": "RE-V5RC-24-6048",
+      "name": "Feilding V5RC Build Day: Kiwibots Event in Central Robotics Region",
+      "start": "2024-06-08T00:00:00-04:00",
+      "end": "2024-06-08T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "FAHS Feilding High School",
+        "address_1": "1 Churcher Street",
+        "address_2": null,
+        "city": "Feilding",
+        "region": null,
+        "postcode": "4702",
+        "country": "New Zealand",
+        "coordinates": {
+          "lat": -40.214259,
+          "lon": 175.573475
+        }
+      },
+      "locations": {
+        "2024-06-08": {
+          "venue": "FAHS Feilding High School",
+          "address_1": "1 Churcher Street",
+          "address_2": null,
+          "city": "Feilding",
+          "region": null,
+          "postcode": "4702",
+          "country": "New Zealand",
+          "coordinates": {
+            "lat": -40.214259,
+            "lon": 175.573475
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56064,
+      "sku": "RE-V5RC-24-6064",
+      "name": "Halcombe V5RC Tournament 1 (scrimmage): Kiwibots Event in Central Robotics Region",
+      "start": "2024-06-22T00:00:00-04:00",
+      "end": "2024-06-22T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "TBC",
+        "address_1": "",
+        "address_2": null,
+        "city": "Palmerston North",
+        "region": null,
+        "postcode": "",
+        "country": "New Zealand",
+        "coordinates": {
+          "lat": -40.354463,
+          "lon": 175.609748
+        }
+      },
+      "locations": {
+        "2024-06-22": {
+          "venue": "TBC",
+          "address_1": "",
+          "address_2": null,
+          "city": "Palmerston North",
+          "region": null,
+          "postcode": "",
+          "country": "New Zealand",
+          "coordinates": {
+            "lat": -40.354463,
+            "lon": 175.609748
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56448,
+      "sku": "RE-V5RC-24-6448",
+      "name": "2024\u4e9a\u6d32\u673a\u5668\u4eba\u8054\u76df-VEX\u673a\u5668\u4eba\u5317\u4eac\u57ce\u5e02\u9009\u62d4\u8d5b",
+      "start": "2024-07-15T00:00:00-04:00",
+      "end": "2024-07-17T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u4e16\u754c\u56ed\u827a\u535a\u89c8\u4f1a\u56fd\u9645\u9986A\u9986",
+        "address_1": "\u5317\u4eac\u5e02\u5ef6\u5e86\u533a\u5ef6\u5e86\u9547\u5ef6\u5eb7\u8def10\u53f7\u96621\u53f7\u697c",
+        "address_2": null,
+        "city": "Beijing",
+        "region": "Beijing",
+        "postcode": "100019",
+        "country": "China",
+        "coordinates": {
+          "lat": 40.465104,
+          "lon": 115.996143
+        }
+      },
+      "locations": {
+        "2024-07-15": {
+          "venue": "\u4e16\u754c\u56ed\u827a\u535a\u89c8\u4f1a\u56fd\u9645\u9986A\u9986",
+          "address_1": "\u5317\u4eac\u5e02\u5ef6\u5e86\u533a\u5ef6\u5e86\u9547\u5ef6\u5eb7\u8def10\u53f7\u96621\u53f7\u697c",
+          "address_2": null,
+          "city": "Beijing",
+          "region": "Beijing",
+          "postcode": "100019",
+          "country": "China",
+          "coordinates": {
+            "lat": 40.465104,
+            "lon": 115.996143
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default Division",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56389,
+      "sku": "RE-V5RC-24-6389",
+      "name": "\u4e9a\u6d32\u673a\u5668\u4eba\u8054\u76df2024-2025\u8d5b\u5b63VEX\u673a\u5668\u4eba\u57ce\u5e02\u9009\u62d4\u8d5b\u5317\u4eac\u7ad9",
+      "start": "2024-07-20T00:00:00-04:00",
+      "end": "2024-07-21T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u5357\u82d1\u6c47\u777f\u5929\u8bda\u9152\u5e97",
+        "address_1": "\u5317\u4eac\u5e02\u4e30\u53f0\u533a\u5357\u56db\u73af\u5357\u82d1\u8857\u9053\u8b66\u5907\u4e1c\u8def\u516d\u53f7",
+        "address_2": null,
+        "city": "\u5317\u4eac\u5e02",
+        "region": "Beijing",
+        "postcode": "100089",
+        "country": "China",
+        "coordinates": {
+          "lat": 39.83177,
+          "lon": 116.38479
+        }
+      },
+      "locations": {
+        "2024-07-20": {
+          "venue": "\u5357\u82d1\u6c47\u777f\u5929\u8bda\u9152\u5e97",
+          "address_1": "\u5317\u4eac\u5e02\u4e30\u53f0\u533a\u5357\u56db\u73af\u5357\u82d1\u8857\u9053\u8b66\u5907\u4e1c\u8def\u516d\u53f7",
+          "address_2": null,
+          "city": "\u5317\u4eac\u5e02",
+          "region": "Beijing",
+          "postcode": "100089",
+          "country": "China",
+          "coordinates": {
+            "lat": 39.83177,
+            "lon": 116.38479
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default Division",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 55866,
+      "sku": "RE-V5RC-24-5866",
+      "name": "Melbourne | Blended Tournament | Templestowe College: VEX @ TC",
+      "start": "2024-07-25T00:00:00-04:00",
+      "end": "2024-07-25T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Templestowe College",
+        "address_1": "7 Cypress Avenue",
+        "address_2": null,
+        "city": "Templestowe Lower",
+        "region": null,
+        "postcode": "3107",
+        "country": "Australia",
+        "coordinates": {
+          "lat": -37.766261,
+          "lon": 145.122452
+        }
+      },
+      "locations": {
+        "2024-07-25": {
+          "venue": "Templestowe College",
+          "address_1": "7 Cypress Avenue",
+          "address_2": null,
+          "city": "Templestowe Lower",
+          "region": null,
+          "postcode": "3107",
+          "country": "Australia",
+          "coordinates": {
+            "lat": -37.766261,
+            "lon": 145.122452
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Spenber Division",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56302,
+      "sku": "RE-V5RC-24-6302",
+      "name": "The First Nangong Cup VEX Robot Elite Invitational (V5RC)",
+      "start": "2024-07-26T00:00:00-04:00",
+      "end": "2024-07-28T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "The First Nangong Cup VEX Robot Elite Invitational (V5RC)",
+        "address_1": "\u798f\u7530\u533a",
+        "address_2": null,
+        "city": "\u6df1\u5733\u5e02",
+        "region": "Guangdong",
+        "postcode": "518000",
+        "country": "China",
+        "coordinates": {
+          "lat": 22.541183,
+          "lon": 114.05863
+        }
+      },
+      "locations": {
+        "2024-07-26": {
+          "venue": "The First Nangong Cup VEX Robot Elite Invitational (V5RC)",
+          "address_1": "\u798f\u7530\u533a",
+          "address_2": null,
+          "city": "\u6df1\u5733\u5e02",
+          "region": "Guangdong",
+          "postcode": "518000",
+          "country": "China",
+          "coordinates": {
+            "lat": 22.541183,
+            "lon": 114.05863
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56347,
+      "sku": "RE-V5RC-24-6347",
+      "name": "2024\u201c\u5927\u6e7e\u533a\u201dVEX\u673a\u5668\u4eba\u5168\u56fd\u9080\u8bf7\u8d5b-VEX V5\u521d\u4e2d\u7ec4",
+      "start": "2024-07-26T00:00:00-04:00",
+      "end": "2024-07-28T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u60e0\u5dde\u4f1a\u5c55\u4e2d\u5fc3/ \u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+        "address_1": "\u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+        "address_2": null,
+        "city": "\u60e0\u5dde\u5e02",
+        "region": "Guangdong",
+        "postcode": "",
+        "country": "China",
+        "coordinates": {
+          "lat": 23.10203,
+          "lon": 114.4187
+        }
+      },
+      "locations": {
+        "2024-07-26": {
+          "venue": "\u60e0\u5dde\u4f1a\u5c55\u4e2d\u5fc3/ \u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+          "address_1": "\u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+          "address_2": null,
+          "city": "\u60e0\u5dde\u5e02",
+          "region": "Guangdong",
+          "postcode": "",
+          "country": "China",
+          "coordinates": {
+            "lat": 23.10203,
+            "lon": 114.4187
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56382,
+      "sku": "RE-V5RC-24-6382",
+      "name": "2024\u201c\u5927\u6e7e\u533a\u201dVEX\u673a\u5668\u4eba\u5168\u56fd\u9080\u8bf7\u8d5b-VEX V5\u9ad8\u4e2d\u7ec4",
+      "start": "2024-07-26T00:00:00-04:00",
+      "end": "2024-07-28T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u60e0\u5dde\u4f1a\u5c55\u4e2d\u5fc3/\u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+        "address_1": "\u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+        "address_2": null,
+        "city": "\u60e0\u5dde\u5e02",
+        "region": null,
+        "postcode": "",
+        "country": "China",
+        "coordinates": {
+          "lat": 23.10203,
+          "lon": 114.4187
+        }
+      },
+      "locations": {
+        "2024-07-26": {
+          "venue": "\u60e0\u5dde\u4f1a\u5c55\u4e2d\u5fc3/\u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+          "address_1": "\u60e0\u5dde\u5e02\u60e0\u57ce\u533a\u6587\u660c\u4e00\u8def1\u53f7",
+          "address_2": null,
+          "city": "\u60e0\u5dde\u5e02",
+          "region": null,
+          "postcode": "",
+          "country": "China",
+          "coordinates": {
+            "lat": 23.10203,
+            "lon": 114.4187
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 55655,
+      "sku": "RE-V5RC-24-5655",
+      "name": "Early Season Scrimmage prior to Mall Of America: Blended V5RC",
+      "start": "2024-07-27T00:00:00-04:00",
+      "end": "2024-07-27T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Harrisburg South Middle School",
+        "address_1": "600 South Cliff Avenue",
+        "address_2": null,
+        "city": "Harrisburg",
+        "region": "South Dakota",
+        "postcode": "57032",
+        "country": "United States",
+        "coordinates": {
+          "lat": 43.426534,
+          "lon": -96.70566
+        }
+      },
+      "locations": {
+        "2024-07-27": {
+          "venue": "Harrisburg South Middle School",
+          "address_1": "600 South Cliff Avenue",
+          "address_2": null,
+          "city": "Harrisburg",
+          "region": "South Dakota",
+          "postcode": "57032",
+          "country": "United States",
+          "coordinates": {
+            "lat": 43.426534,
+            "lon": -96.70566
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56065,
+      "sku": "RE-V5RC-24-6065",
+      "name": "Palmerston North VRC Tournament 2: Kiwibots Event in Central Robotics Region",
+      "start": "2024-07-27T00:00:00-04:00",
+      "end": "2024-07-27T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Freyberg High School",
+        "address_1": "33 Freyberg Street",
+        "address_2": null,
+        "city": "Palmerston North",
+        "region": null,
+        "postcode": "4414",
+        "country": "New Zealand",
+        "coordinates": {
+          "lat": -40.336861,
+          "lon": 175.626859
+        }
+      },
+      "locations": {
+        "2024-07-27": {
+          "venue": "Freyberg High School",
+          "address_1": "33 Freyberg Street",
+          "address_2": null,
+          "city": "Palmerston North",
+          "region": null,
+          "postcode": "4414",
+          "country": "New Zealand",
+          "coordinates": {
+            "lat": -40.336861,
+            "lon": 175.626859
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56208,
+      "sku": "RE-V5RC-24-6208",
+      "name": "Auckland V5RC #1: Scrimmage",
+      "start": "2024-07-27T00:00:00-04:00",
+      "end": "2024-07-27T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Glenfield College",
+        "address_1": "60 Kaipatiki Road",
+        "address_2": null,
+        "city": "Auckland",
+        "region": null,
+        "postcode": "0629",
+        "country": "New Zealand",
+        "coordinates": {
+          "lat": -36.780981,
+          "lon": 174.712387
+        }
+      },
+      "locations": {
+        "2024-07-27": {
+          "venue": "Glenfield College",
+          "address_1": "60 Kaipatiki Road",
+          "address_2": null,
+          "city": "Auckland",
+          "region": null,
+          "postcode": "0629",
+          "country": "New Zealand",
+          "coordinates": {
+            "lat": -36.780981,
+            "lon": 174.712387
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56823,
+      "sku": "RE-V5RC-24-6823",
+      "name": "\u4e9a\u6d32\u673a\u5668\u4eba\u8054\u76df\u6148\u5584\u57fa\u91d12024-2025\u8d5b\u5b63VEX\u673a\u5668\u4eba\u4e0a\u6d77\u57ce\u5e02\u9009\u62d4\u8d5b",
+      "start": "2024-07-31T00:00:00-04:00",
+      "end": "2024-07-31T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u540c\u6d4e\u5927\u5b66\u9644\u5c5e\u65b0\u6c5f\u6e7e\u57ce\u5b9e\u9a8c\u5b66\u6821",
+        "address_1": "",
+        "address_2": null,
+        "city": "\u4e0a\u6d77",
+        "region": "Shanghai",
+        "postcode": "",
+        "country": "China",
+        "coordinates": {
+          "lat": 31.230416,
+          "lon": 121.473701
+        }
+      },
+      "locations": {
+        "2024-07-31": {
+          "venue": "\u540c\u6d4e\u5927\u5b66\u9644\u5c5e\u65b0\u6c5f\u6e7e\u57ce\u5b9e\u9a8c\u5b66\u6821",
+          "address_1": "",
+          "address_2": null,
+          "city": "\u4e0a\u6d77",
+          "region": "Shanghai",
+          "postcode": "",
+          "country": "China",
+          "coordinates": {
+            "lat": 31.230416,
+            "lon": 121.473701
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default Division",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 55557,
+      "sku": "RE-V5RC-24-5557",
+      "name": "Minnesota Signature Event - VEX V5 Robotics Competition: Presented by The National Center for Autonomous Technologies",
+      "start": "2024-08-01T00:00:00-04:00",
+      "end": "2024-08-03T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Mall of America\u00ae",
+        "address_1": "60 East Broadway",
+        "address_2": null,
+        "city": "Bloomington",
+        "region": "Minnesota",
+        "postcode": "55425",
+        "country": "United States",
+        "coordinates": {
+          "lat": 44.854698,
+          "lon": -93.241951
+        }
+      },
+      "locations": {
+        "2024-08-01": {
+          "venue": "Mall of America\u00ae",
+          "address_1": "60 East Broadway",
+          "address_2": null,
+          "city": "Bloomington",
+          "region": "Minnesota",
+          "postcode": "55425",
+          "country": "United States",
+          "coordinates": {
+            "lat": 44.854698,
+            "lon": -93.241951
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "MOA",
+          "order": 1
+        }
+      ],
+      "level": "Signature",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 55685,
+      "sku": "RE-V5RC-24-5685",
+      "name": "Monroe County Fair V5RC High Stakes MI Kickoff: Blended V5RC MS/HS Michigan Region 3 Qualifier",
+      "start": "2024-08-03T00:00:00-04:00",
+      "end": "2024-08-03T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Monroe County Fair",
+        "address_1": "3775 S Custer Road",
+        "address_2": null,
+        "city": "Monroe",
+        "region": "Michigan",
+        "postcode": "48161",
+        "country": "United States",
+        "coordinates": {
+          "lat": 41.931229,
+          "lon": -83.463548
+        }
+      },
+      "locations": {
+        "2024-08-03": {
+          "venue": "Monroe County Fair",
+          "address_1": "3775 S Custer Road",
+          "address_2": null,
+          "city": "Monroe",
+          "region": "Michigan",
+          "postcode": "48161",
+          "country": "United States",
+          "coordinates": {
+            "lat": 41.931229,
+            "lon": -83.463548
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56117,
+      "sku": "RE-V5RC-24-6117",
+      "name": "2024-2025\u8d5b\u5b63VEX\u673a\u5668\u4eba\u4e9a\u6d32\u516c\u5f00\u8d5b\u4f5b\u5c71\u57ce\u5e02\u8d5b_V5RC",
+      "start": "2024-08-03T00:00:00-04:00",
+      "end": "2024-08-04T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u5e7f\u4e1c\u7701\u4f5b\u5c71\u66a8\u5927\u6e2f\u6fb3\u5b50\u5f1f\u5b66\u6821",
+        "address_1": "\u4f5b\u5c71\u5e02\u5357\u6d77\u533a\u4f53\u80b2\u897f\u8def\u4e07\u79d1\u91d1\u57df\u534e\u5ead\u4e1c\u5357\u4fa7\u7ea660\u7c73",
+        "address_2": null,
+        "city": "\u4f5b\u5c71",
+        "region": "Guangdong",
+        "postcode": "510000",
+        "country": "China",
+        "coordinates": {
+          "lat": 23.02882,
+          "lon": 113.14278
+        }
+      },
+      "locations": {
+        "2024-08-03": {
+          "venue": "\u5e7f\u4e1c\u7701\u4f5b\u5c71\u66a8\u5927\u6e2f\u6fb3\u5b50\u5f1f\u5b66\u6821",
+          "address_1": "\u4f5b\u5c71\u5e02\u5357\u6d77\u533a\u4f53\u80b2\u897f\u8def\u4e07\u79d1\u91d1\u57df\u534e\u5ead\u4e1c\u5357\u4fa7\u7ea660\u7c73",
+          "address_2": null,
+          "city": "\u4f5b\u5c71",
+          "region": "Guangdong",
+          "postcode": "510000",
+          "country": "China",
+          "coordinates": {
+            "lat": 23.02882,
+            "lon": 113.14278
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56235,
+      "sku": "RE-V5RC-24-6235",
+      "name": "2024-2025\u8d5b\u5b63VEX \u673a\u5668\u4eba\u4e9a\u6d32\u516c\u5f00\u8d5b\u897f\u5b89\u57ce\u5e02\u8d5b-V5RC_MS/HS",
+      "start": "2024-08-03T00:00:00-04:00",
+      "end": "2024-08-04T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Yuanpeng Yao",
+        "address_1": "No. 14, No. 2 Gaoxin Road, Yanta District, Xi'an City, Shaanxi Province",
+        "address_2": null,
+        "city": "xian",
+        "region": "Shaanxi",
+        "postcode": "710000",
+        "country": "China",
+        "coordinates": {
+          "lat": 34.244995,
+          "lon": 108.91444
+        }
+      },
+      "locations": {
+        "2024-08-03": {
+          "venue": "Yuanpeng Yao",
+          "address_1": "No. 14, No. 2 Gaoxin Road, Yanta District, Xi'an City, Shaanxi Province",
+          "address_2": null,
+          "city": "xian",
+          "region": "Shaanxi",
+          "postcode": "710000",
+          "country": "China",
+          "coordinates": {
+            "lat": 34.244995,
+            "lon": 108.91444
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56466,
+      "sku": "RE-V5RC-24-6466",
+      "name": "2024-2025\u8d5b\u5b63VEX \u673a\u5668\u4eba\u4e9a\u6d32\u516c\u5f00\u8d5b\u5357\u660c\u57ce\u5e02\u8d5b-V5RC",
+      "start": "2024-08-03T00:00:00-04:00",
+      "end": "2024-08-04T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u4e07\u521b\u79d1\u6280\u57ce-\u56fd\u9645\u521b\u65b0\u672a\u6765\u9986",
+        "address_1": "\u6c5f\u897f\u7701\u5357\u660c\u5e02\u8d63\u6c5f\u65b0\u533a\u5112\u4e50\u6e56\u65b0\u57ce\u74dc\u6d32\u8857\u4e0e\u4e07\u548c\u8def\u4ea4\u6c47\u5904",
+        "address_2": null,
+        "city": "\u5357\u660c",
+        "region": "Jiangxi",
+        "postcode": "330000",
+        "country": "China",
+        "coordinates": {
+          "lat": 28.686653,
+          "lon": 115.898277
+        }
+      },
+      "locations": {
+        "2024-08-03": {
+          "venue": "\u4e07\u521b\u79d1\u6280\u57ce-\u56fd\u9645\u521b\u65b0\u672a\u6765\u9986",
+          "address_1": "\u6c5f\u897f\u7701\u5357\u660c\u5e02\u8d63\u6c5f\u65b0\u533a\u5112\u4e50\u6e56\u65b0\u57ce\u74dc\u6d32\u8857\u4e0e\u4e07\u548c\u8def\u4ea4\u6c47\u5904",
+          "address_2": null,
+          "city": "\u5357\u660c",
+          "region": "Jiangxi",
+          "postcode": "330000",
+          "country": "China",
+          "coordinates": {
+            "lat": 28.686653,
+            "lon": 115.898277
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 55624,
+      "sku": "RE-V5RC-24-5624",
+      "name": "Belair I  I V5RC Tournament: @St John's Grammar School",
+      "start": "2024-08-07T00:00:00-04:00",
+      "end": "2024-08-07T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "St John's Grammar School",
+        "address_1": "29 Gloucester Avenue",
+        "address_2": null,
+        "city": "Belair",
+        "region": null,
+        "postcode": "5052",
+        "country": "Australia",
+        "coordinates": {
+          "lat": -35.001083,
+          "lon": 138.620181
+        }
+      },
+      "locations": {
+        "2024-08-07": {
+          "venue": "St John's Grammar School",
+          "address_1": "29 Gloucester Avenue",
+          "address_2": null,
+          "city": "Belair",
+          "region": null,
+          "postcode": "5052",
+          "country": "Australia",
+          "coordinates": {
+            "lat": -35.001083,
+            "lon": 138.620181
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56910,
+      "sku": "RE-V5RC-24-6910",
+      "name": "\u4e9a\u6d32\u673a\u5668\u4eba\u8054\u76df\u6148\u5584\u57fa\u91d12024-2025\u8d5b\u5b63VEX\u673a\u5668\u4eba\u4e1c\u839e\u57ce\u5e02\u9009\u62d4\u8d5b-V5\u521d\u4e2d\u7ec4",
+      "start": "2024-08-09T00:00:00-04:00",
+      "end": "2024-08-10T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u4e1c\u839e\u6e05\u6f9c\u5c71\u5b66\u6821",
+        "address_1": "\u5e7f\u4e1c\u7701\u4e1c\u839e\u5e02\u677e\u5c71\u6e56\u53f0\u5357\u8def8\u53f7",
+        "address_2": null,
+        "city": "\u4e1c\u839e",
+        "region": "Guangdong",
+        "postcode": "",
+        "country": "China",
+        "coordinates": {
+          "lat": 22.89423,
+          "lon": 113.92264
+        }
+      },
+      "locations": {
+        "2024-08-09": {
+          "venue": "\u4e1c\u839e\u6e05\u6f9c\u5c71\u5b66\u6821",
+          "address_1": "\u5e7f\u4e1c\u7701\u4e1c\u839e\u5e02\u677e\u5c71\u6e56\u53f0\u5357\u8def8\u53f7",
+          "address_2": null,
+          "city": "\u4e1c\u839e",
+          "region": "Guangdong",
+          "postcode": "",
+          "country": "China",
+          "coordinates": {
+            "lat": 22.89423,
+            "lon": 113.92264
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56975,
+      "sku": "RE-V5RC-24-6975",
+      "name": "\u4e9a\u6d32\u673a\u5668\u4eba\u8054\u76df\u6148\u5584\u57fa\u91d12024-2025\u8d5b\u5b63VEX\u673a\u5668\u4eba\u4e1c\u839e\u57ce\u5e02\u9009\u62d4\u8d5b-V5\u9ad8\u4e2d\u7ec4",
+      "start": "2024-08-09T00:00:00-04:00",
+      "end": "2024-08-10T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u4e1c\u839e\u6e05\u6f9c\u5c71\u5b66\u6821",
+        "address_1": "\u5e7f\u4e1c\u7701\u4e1c\u839e\u5e02\u677e\u5c71\u6e56\u53f0\u5357\u8def8\u53f7",
+        "address_2": null,
+        "city": "\u4e1c\u839e",
+        "region": "Guangdong",
+        "postcode": "",
+        "country": "China",
+        "coordinates": {
+          "lat": 22.89423,
+          "lon": 113.92264
+        }
+      },
+      "locations": {
+        "2024-08-09": {
+          "venue": "\u4e1c\u839e\u6e05\u6f9c\u5c71\u5b66\u6821",
+          "address_1": "\u5e7f\u4e1c\u7701\u4e1c\u839e\u5e02\u677e\u5c71\u6e56\u53f0\u5357\u8def8\u53f7",
+          "address_2": null,
+          "city": "\u4e1c\u839e",
+          "region": "Guangdong",
+          "postcode": "",
+          "country": "China",
+          "coordinates": {
+            "lat": 22.89423,
+            "lon": 113.92264
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56261,
+      "sku": "RE-V5RC-24-6261",
+      "name": "Auckland V5RC #2: Scrimmage",
+      "start": "2024-08-10T00:00:00-04:00",
+      "end": "2024-08-10T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Lynfield College",
+        "address_1": "191 White Swan Road",
+        "address_2": null,
+        "city": "Auckland",
+        "region": null,
+        "postcode": "1041",
+        "country": "New Zealand",
+        "coordinates": {
+          "lat": -36.920631,
+          "lon": 174.715269
+        }
+      },
+      "locations": {
+        "2024-08-10": {
+          "venue": "Lynfield College",
+          "address_1": "191 White Swan Road",
+          "address_2": null,
+          "city": "Auckland",
+          "region": null,
+          "postcode": "1041",
+          "country": "New Zealand",
+          "coordinates": {
+            "lat": -36.920631,
+            "lon": 174.715269
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Default",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": false,
+      "event_type": null
+    },
+    {
+      "id": 56349,
+      "sku": "RE-V5RC-24-6349",
+      "name": "\u4e9a\u6d32\u673a\u5668\u4eba\u8054\u76df\u6148\u5584\u57fa\u91d12024-2025\u8d5b\u5b63VEX\u673a\u5668\u4eba\u5409\u6797\u57ce\u5e02\u9009\u62d4\u8d5b",
+      "start": "2024-08-10T00:00:00-04:00",
+      "end": "2024-08-11T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "\u5409\u6797\u7701\u957f\u6625\u5e02\u671d\u9633\u533a\u5c45\u7136\u00b7\u4e16\u754c\u91cc(\u7845\u8c37\u5927\u8857)",
+        "address_1": "\u5409\u6797\u7701\u957f\u6625\u5e02\u671d\u9633\u533a\u5c45\u7136\u00b7\u4e16\u754c\u91cc(\u7845\u8c37\u5927\u8857)",
+        "address_2": null,
+        "city": "\u957f\u6625\u5e02",
+        "region": null,
+        "postcode": "130012",
+        "country": "China",
+        "coordinates": {
+          "lat": 43.83199,
+          "lon": 125.28308
+        }
+      },
+      "locations": {
+        "2024-08-10": {
+          "venue": "\u5409\u6797\u7701\u957f\u6625\u5e02\u671d\u9633\u533a\u5c45\u7136\u00b7\u4e16\u754c\u91cc(\u7845\u8c37\u5927\u8857)",
+          "address_1": "\u5409\u6797\u7701\u957f\u6625\u5e02\u671d\u9633\u533a\u5c45\u7136\u00b7\u4e16\u754c\u91cc(\u7845\u8c37\u5927\u8857)",
+          "address_2": null,
+          "city": "\u957f\u6625\u5e02",
+          "region": null,
+          "postcode": "130012",
+          "country": "China",
+          "coordinates": {
+            "lat": 43.83199,
+            "lon": 125.28308
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    },
+    {
+      "id": 56379,
+      "sku": "RE-V5RC-24-6379",
+      "name": "2024-2025\u8d5b\u5b63VEX \u673a\u5668\u4eba\u4e9a\u6d32\u516c\u5f00\u8d5b\u5168\u56fd\u9080\u8bf7\u8d5b\u5305\u5934\u7ad9-V5RC",
+      "start": "2024-08-11T00:00:00-04:00",
+      "end": "2024-08-14T00:00:00-04:00",
+      "season": {
+        "id": 190,
+        "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+        "code": null
+      },
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "location": {
+        "venue": "Baotou International Convention and Exhibition Center",
+        "address_1": "To the northwest of the intersection of Weiyi Road and Wei'er Road in Jiuyuan District, Baotou City, Inner Mongolia Autonomous Region",
+        "address_2": null,
+        "city": "baotou",
+        "region": "Neimenggu",
+        "postcode": "014010",
+        "country": "China",
+        "coordinates": {
+          "lat": 40.57078,
+          "lon": 109.96175
+        }
+      },
+      "locations": {
+        "2024-08-11": {
+          "venue": "Baotou International Convention and Exhibition Center",
+          "address_1": "To the northwest of the intersection of Weiyi Road and Wei'er Road in Jiuyuan District, Baotou City, Inner Mongolia Autonomous Region",
+          "address_2": null,
+          "city": "baotou",
+          "region": "Neimenggu",
+          "postcode": "014010",
+          "country": "China",
+          "coordinates": {
+            "lat": 40.57078,
+            "lon": 109.96175
+          }
+        }
+      },
+      "divisions": [
+        {
+          "id": 1,
+          "name": "Division 1",
+          "order": 1
+        }
+      ],
+      "level": "Other",
+      "ongoing": false,
+      "awards_finalized": true,
+      "event_type": null
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "current_page": 1,
+    "first_page_url": "https://www.robotevents.com/api/v2/seasons?page=1",
+    "from": 1,
+    "last_page": 1,
+    "last_page_url": "https://www.robotevents.com/api/v2/seasons?page=1",
+    "next_page_url": null,
+    "path": "https://www.robotevents.com/api/v2/seasons",
+    "per_page": 25,
+    "prev_page_url": null,
+    "to": 16,
+    "total": 16
+  },
+  "data": [
+    {
+      "id": 190,
+      "name": "VEX V5 Robotics Competition 2024-2025: High Stakes",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2024-04-16T10:45:00-04:00",
+      "end": "2024-12-14T04:59:00-05:00",
+      "years_start": 2024,
+      "years_end": 2025
+    },
+    {
+      "id": 181,
+      "name": "VRC 2023-2024: Over Under",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2023-04-05T09:30:00-04:00",
+      "end": "2024-02-01T23:59:00-05:00",
+      "years_start": 2023,
+      "years_end": 2024
+    },
+    {
+      "id": 173,
+      "name": "VRC 2022-2023: Spin Up",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2022-04-18T07:00:00-04:00",
+      "end": "2023-04-01T07:00:00-04:00",
+      "years_start": 2022,
+      "years_end": 2023
+    },
+    {
+      "id": 154,
+      "name": "VRC 2021-2022: Tipping Point",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2021-04-15T07:00:00-04:00",
+      "end": "2022-04-18T00:00:00-04:00",
+      "years_start": 2021,
+      "years_end": 2022
+    },
+    {
+      "id": 139,
+      "name": "VRC 2020-2021: Change Up ",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2020-04-25T13:00:00-04:00",
+      "end": "2021-05-18T23:00:00-04:00",
+      "years_start": 2020,
+      "years_end": 2021
+    },
+    {
+      "id": 130,
+      "name": "VRC 2019-2020: Tower Takeover",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2019-04-27T00:00:00-04:00",
+      "end": "2020-04-16T00:00:00-04:00",
+      "years_start": 2019,
+      "years_end": 2020
+    },
+    {
+      "id": 125,
+      "name": "VRC 2018-2019: Turning Point",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2018-04-27T00:00:00-04:00",
+      "end": "2019-04-16T00:00:00-04:00",
+      "years_start": 2018,
+      "years_end": 2019
+    },
+    {
+      "id": 119,
+      "name": "VRC 2017-2018: In the Zone",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2017-05-05T00:00:00-04:00",
+      "end": "2018-04-18T12:00:00-04:00",
+      "years_start": 2017,
+      "years_end": 2018
+    },
+    {
+      "id": 115,
+      "name": "VRC 2016-2017: Starstruck",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2016-03-01T00:00:00-05:00",
+      "end": "2017-02-14T00:00:00-05:00",
+      "years_start": 2016,
+      "years_end": 2017
+    },
+    {
+      "id": 110,
+      "name": "VRC 2015-2016: Nothing But Net",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2015-03-01T00:00:00-05:00",
+      "end": "2016-02-14T00:00:00-05:00",
+      "years_start": 2015,
+      "years_end": 2016
+    },
+    {
+      "id": 102,
+      "name": "VRC 2014-2015: Skyrise",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2014-03-01T00:00:00-05:00",
+      "end": "2015-02-14T00:00:00-05:00",
+      "years_start": 2014,
+      "years_end": 2015
+    },
+    {
+      "id": 92,
+      "name": "VRC 2013-2014: Toss Up",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2013-03-01T00:00:00-05:00",
+      "end": "2014-02-14T00:00:00-05:00",
+      "years_start": 2013,
+      "years_end": 2014
+    },
+    {
+      "id": 85,
+      "name": "VRC 2012-2013: Sack Attack",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2012-03-01T00:00:00-05:00",
+      "end": "2013-02-14T00:00:00-05:00",
+      "years_start": 2012,
+      "years_end": 2013
+    },
+    {
+      "id": 73,
+      "name": "VRC 2011-2012: Gateway",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2011-03-01T00:00:00-05:00",
+      "end": "2012-02-14T00:00:00-05:00",
+      "years_start": 2011,
+      "years_end": 2012
+    },
+    {
+      "id": 7,
+      "name": "VRC: Round Up",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2010-03-01T00:00:00-05:00",
+      "end": "2011-02-14T00:00:00-05:00",
+      "years_start": 2010,
+      "years_end": 2011
+    },
+    {
+      "id": 1,
+      "name": "Clean Sweep",
+      "program": {
+        "id": 1,
+        "name": "VEX V5 Robotics Competition",
+        "code": "V5RC"
+      },
+      "start": "2009-03-01T00:00:00-05:00",
+      "end": "2010-02-14T00:00:00-05:00",
+      "years_start": 2009,
+      "years_end": 2010
+    }
+  ]
+}
